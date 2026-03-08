@@ -1,0 +1,29 @@
+# TechXcel - Dependencies
+
+# Backend
+fastapi
+uvicorn
+python-multipart
+
+# Data Processing
+pandas
+numpy
+openpyxl
+xlrd
+
+# AI & ML
+openai
+langchain
+langchain-openai
+scikit-learn
+
+# Visualization
+plotly
+matplotlib
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
+pydantic
