@@ -16,6 +16,7 @@ openai
 langchain
 langchain-openai
 scikit-learn
+scipy
 
 # Visualization
 plotly
@@ -27,3 +28,12 @@ streamlit
 # Utilities
 python-dotenv
 pydantic
+
+# Report Generation
+reportlab
+
+# Email (optional - for email features)
+# Configure in .env file:
+# SMTP_SERVER=smtp.gmail.com
+# EMAIL_USERNAME=your-email@gmail.com
+# EMAIL_PASSWORD=your-app-password
